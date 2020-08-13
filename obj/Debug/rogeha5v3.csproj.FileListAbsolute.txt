@@ -1,0 +1,14 @@
+c:\users\hunter\source\repos\rogeha5v3\bin\Debug\rogeha5v3.exe.config
+c:\users\hunter\source\repos\rogeha5v3\bin\Debug\rogeha5v3.exe
+c:\users\hunter\source\repos\rogeha5v3\bin\Debug\rogeha5v3.pdb
+c:\users\hunter\source\repos\rogeha5v3\obj\Debug\rogeha5v3.csproj.CoreCompileInputs.cache
+c:\users\hunter\source\repos\rogeha5v3\obj\Debug\rogeha5v3.exe
+c:\users\hunter\source\repos\rogeha5v3\obj\Debug\rogeha5v3.pdb
+c:\users\hunter\source\repos\rogeha5v3\obj\Debug\rogeha5v3.csprojResolveAssemblyReference.cache
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a5\asst5-rogehTHREE\a5v3-rogeh\obj\Debug\rogeha5v3.csprojResolveAssemblyReference.cache
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a5\asst5-rogehTHREE\a5v3-rogeh\obj\Debug\rogeha5v3.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a5\asst5-rogehTHREE\a5v3-rogeh\obj\Debug\rogeha5v3.exe
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a5\asst5-rogehTHREE\a5v3-rogeh\obj\Debug\rogeha5v3.pdb
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a5\asst5-rogehTHREE\a5v3-rogeh\bin\Debug\rogeha5v3.exe.config
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a5\asst5-rogehTHREE\a5v3-rogeh\bin\Debug\rogeha5v3.exe
+C:\Users\Hunter\Documents\School\fall 2018\Alg Design\a5\asst5-rogehTHREE\a5v3-rogeh\bin\Debug\rogeha5v3.pdb
